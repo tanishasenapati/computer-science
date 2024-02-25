@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+     body {
+     font-family: 'Ralaway', sans-serif;
+     text-align: center;
+        justify-content: space-around;
+        height: 100%
+        align-item: center;
+      background: linear-gradient(#E0B4F1, white,#E5C6F1);
+      }
+    </style>
+  </head>
+  <body align="center">
+   <h1 style="text-aling:center;"><u>my school</h1>
+   <p> my school name is narayana.</p>
+   <p> my school was established in 1990.</p>
+   <p> there are many labs in our school</p>
+   <p>the teachers are very friendly </p>
+  </body>
+</html>
